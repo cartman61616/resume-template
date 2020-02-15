@@ -1,19 +1,45 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
+- company: Brooksource, Supporting The Home Depot
+  positions:
+  - position: Senior Software Engineer
+    duration: June, 2019 &mdash; Present
+    projects:
+    - project: Tax Commons
+      summary:
+        Assisted in the design, development, evolution, and support of a sales tax service used by all major selling systems within Home Depot.
+        <ul>
+          <li>Process over $7 billion worth of sales, rental, and use tax from multiple selling channels.</li>
+          <li>Ensure selling systems are able to better book taxes to jurisdictions for audit and remittance purposes</li>
+          <li>Ensure products are taxed as accurately as possible based on state and local laws</li>
+        </ul>
+        Additionally assisted in the design and development of a suite of microServices for SKU Mapping.
+        <ul>
+          <li>Integration with Google Pub/Sub to track creation and updates of product SKU information</li>
+          <li>Batch service to nightly deliver published SKUs to over 2000 store servers</li>
+          <li>Full stack application with Spring Boot and React for Tax Accountants to easily map SKU taxability</li>
+        </ul>
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: AT&T
+  positions:
+  - position: Senior Specialist Software Engineer
+    duration:  Jan, 2016 &mdash; June, 2019
+    projects:
+    - project: FlexForce/TDP-ET
+      summary:
+        Supported a variety of projects focusing in microService development as well as serving as a Co-Program Lead for the TDP-ET Summer Internship program.
+        <ul>
+          <li>Developed multiple microServices including a Full-Stack application for network password management, and a ticket management system for network card management using Spring Boot, AngularJS, Docker, Kubernetes, and Maven.</li>
+          <li>Automated an internal process to overcome the need for firewall requests for off-shore employees and applications.</li>
+          <li>Provided technical expertise and mentorship for the TDP-ET Summer Internship program</li>
+        </ul>
+  - position: Software Developer Intern I
+    duration: 2012 &mdash; 2015
+    projects:
+      - project:
+        summary:
+          Participated in the summer internship program while attending college supporting a variety of project teams.
+          <ul>
+            <li>(2015) Created a MEAN stack application that provided analysis of billable hours for employees</li>
+            <li>(2014) Transitioned web application to hybrid mobile application using IBM Worklight</li>
+            <li>(2013) Made enhancement to various web applications</li>
+            <li>(2012) Used iRise Studio to produce a GUI simulation of network provisioning service</li>
+          </ul>
