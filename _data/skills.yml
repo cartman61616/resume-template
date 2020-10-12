@@ -1,11 +1,17 @@
 # Skills
-- skill:
-    <ul>
-      <li>Java</li>
-      <li>Spring</li>
-      <li>Test Driven Development</li>
-      <li>Gradle</li>
-      <li>Maven</li>
-      <li>Kubernetes</li>
-      <li>Docker</li>
-    </ul>
+- skill: Java
+  description: 5+ years of Java experience developing REST APIs and MicroServices
+- skill: Spring
+  description: 4+ years of experience using Spring and SpringBoot to create and maintain applications
+- skill: CI/CD
+  description: Experience using various CI/CD tools including Spinnaker, Concourse, Jenkins
+- skill: Test Driven Development
+  description: Creating applications with unit and integration tests as the starting point
+- skill: Python
+  description: Using the Flask framework to create REST APIs
+- skill: Docker
+  description: Containerized various projects using Docker to deploy to Kubernetes
+- skill: Agile Methodology
+  description: 5+ years using the Agile Methodology for developing software including Scrum and XP with Pair Programming
+  
+
