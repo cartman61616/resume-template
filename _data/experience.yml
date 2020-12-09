@@ -5,17 +5,18 @@
     projects:
     - project: Tax Commons
       summary:
-        Assisted in the design, development, evolution, and support of a sales tax service used by all major selling systems within Home Depot.
+        Assisted in the design, development, evolution, and support of a Spring Boot RESTful webservice that calculates sales tax used by all major selling systems within Home Depot.
         <ul>
           <li>Process over $7 billion worth of sales, rental, and use tax from multiple selling channels.</li>
           <li>Ensure selling systems are able to better book taxes to jurisdictions for audit and remittance purposes</li>
           <li>Ensure products are taxed as accurately as possible based on state and local laws</li>
+          <li>Ensured software quality by practicing Test Driven Development and Pair Programming methodologies</li>
         </ul>
         Additionally assisted in the design and development of a suite of microServices for SKU Mapping.
         <ul>
           <li>Integration with Google Pub/Sub to track creation and updates of product SKU information</li>
-          <li>Batch service to nightly deliver published SKUs to over 2000 store servers</li>
-          <li>Full stack application with Spring Boot and React for Tax Accountants to easily map SKU taxability</li>
+          <li>Spring Boot Batch service to nightly deliver published SKUs to over 2000 store servers</li>
+          <li>Full stack application with Spring Boot REST APIs with SpringData JPA and React for Tax Accountants to easily map SKU taxability</li>
         </ul>
 # Director of Digital Stratgy
 - company: AT&T
@@ -27,8 +28,8 @@
       summary:
         Supported a variety of projects focusing in microService development as well as serving as a Co-Program Lead for the TDP-ET Summer Internship program.
         <ul>
-          <li>Developed multiple microServices including a Full-Stack application for network password management, and a ticket management system for network card management using Spring Boot, AngularJS, Docker, Kubernetes, and Maven.</li>
-          <li>Automated an internal process to overcome the need for firewall requests for off-shore employees and applications.</li>
+          <li>Developed multiple microServices including a Full-Stack application for network password management, and a ticket management system for network card management utilizing Spring Boot, AngularJS, Docker, Kubernetes, and Maven.</li>
+          <li>Automated an internal process using a Spring Boot RESTful webservice to overcome the need for firewall requests for off-shore employees and applications.</li>
           <li>Provided technical expertise and mentorship for the TDP-ET Summer Internship program</li>
         </ul>
   - position: Software Developer Intern I
