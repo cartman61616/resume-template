@@ -7,8 +7,8 @@
       summary:
         Assisted in the design, development, evolution, and support of a Spring Boot RESTful webservice that calculates sales tax used by all major selling systems within Home Depot.
         <ul>
-          <li>Process over $7 billion worth of sales, rental, and use tax from multiple selling channels.</li>
-          <li>Ensure selling systems are able to better book taxes to jurisdictions for audit and remittance purposes</li>
+          <li>Process over $7 billion worth of sales, rental, and use tax from multiple selling channels with high available service in Pivotal Cloud Foundry.</li>
+          <li>Ensure selling systems are able to better book taxes to jurisdiction swith a combination of integration and unit tests using Mockito and JUnit for audit and remittance purposes</li>
           <li>Ensure products are taxed as accurately as possible based on state and local laws</li>
           <li>Ensured software quality by practicing Test Driven Development and Pair Programming methodologies</li>
         </ul>
