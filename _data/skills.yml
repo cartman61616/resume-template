@@ -13,5 +13,11 @@
   description: Containerized various projects using Docker to deploy to Kubernetes
 - skill: Agile Methodology
   description: 5+ years using the Agile Methodology for developing software including Scrum and XP with Pair Programming
+- skill: React
+  description: Familiarity with React framework 
+- skill: Google Cloud Platform
+  description: 2+ years working with Google Cloud Platform deploying applications, monitoring and creating infrastructure  
+
+
   
 
