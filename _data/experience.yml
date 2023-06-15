@@ -1,7 +1,30 @@
 - company: Brooksource, Supporting The Home Depot
   positions:
   - position: Senior Software Engineer
-    duration: June, 2019 &mdash; Present
+    duration: March, 2021 &mdash; Present
+    projects:
+    - project: FinanceAPI
+      summary:
+        Assisted in the design, development, evolution, and support of a various Java applications to support financial movements as part of an enterprise transformation
+        <ul>
+          <li>Transform approximately 3600 legacy files to a REST schema and post transactions via Google PubSub</li>
+          <li>Providing key middleware applications in Google Cloud Platform to support Home Depot's enterprise transformation</li>
+          <li>Process approximately 38,000 PubSub transactions per day and sent to the proper financial system.</li>
+          <li>Ensured software quality with a combination of integration and unit tests using Mockito and JUnit</li>
+          <li>Performed code reviews of application code with each production release</li>
+          <li>Lead the testing efforts for 4 major releases and post production support<li>
+        </ul>
+        Additionally participated in various other activities in addition to my primary role
+        <ul>
+          <li>Providing mentorship to other engineers on the team</li>
+          <li>Participated in the 2023 DevGames competition and won the popular vote award</li>
+          <li>Presented at the inaugural HomerCon internal conference</li>
+          <li>Led an effort to remediate open security vulnerabilities</li>
+        </ul>
+- company: Brooksource, Supporting The Home Depot
+  positions:
+  - position: Senior Software Engineer
+    duration: June, 2019 &mdash; March, 2021
     projects:
     - project: Tax Commons
       summary:
