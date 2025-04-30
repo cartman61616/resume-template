@@ -1,7 +1,24 @@
 - company: The Home Depot
   positions:
+  - position: Staff Software Engineer
+    duration: July, 2023 &mdash; Present
+    projects:
+    - project: FinanceAPI
+      summary:
+        Leading the design, development, and support of various microservices to support tracking of financial movements as part of an enterprise transformation
+        <ul>
+          <li>Designed and developed a process to transform legacy flat files to a JSON message </li>
+          <li>Led efforts for enhancements to a key integration interface that consumes and processes approximately 2.1 million transactions daily</li>
+          <li>Designed the refactor of an internal support application from Java/Node to GoLang</li>
+          <li>Performed code reviews of application code with each production release</li>
+        </ul>
+        Additionally participated in various other activities in addition to my primary role
+        <ul>
+          <li>Earned Google Cloud Professional Developer Certification</li>
+          <li>Winner of 2025 Orange Hearted BIT Award</li>
+        </ul>
   - position: Senior Software Engineer
-    duration: March, 2021 &mdash; Present
+    duration: March, 2021 &mdash; July 2023
     projects:
     - project: FinanceAPI
       summary:
